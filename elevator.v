@@ -6,6 +6,7 @@ module ELEVATOR (
 	output reg [1:0] Floor,
 	output reg [1:0] Direction
 );
+// add comment
 
 reg Open_next;
 reg U1_btn, U2_btn, D2_btn, D3_btn, F1_btn, F2_btn, F3_btn;
